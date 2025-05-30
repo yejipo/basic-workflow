@@ -1,6 +1,6 @@
 ### github-action-variable-03.yml
 
-name: Test Github Actions variable-01
+name: Test Github Actions variable-03
 run-name: Run Github Actions var, secret
 on:
   workflow_dispatch
